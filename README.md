@@ -30,5 +30,5 @@ P.S. Присланный код  должен содержать подробн
 
 
 ## Приложение:
-![Скриншот](https://github.com/github/employees-list/public/assets/Application.png )
+![Скриншот](https://github.com/github/employees-list/public/Application.png )
 
